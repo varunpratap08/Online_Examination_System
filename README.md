@@ -21,7 +21,8 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/your-username/online-examination-system.git
+git clone https://github.com/varunpratap08/online-examination-system.git
+
 Navigate to the Project Directory
 
 bash
